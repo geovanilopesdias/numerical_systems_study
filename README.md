@@ -1,2 +1,2 @@
-# numerical_systems_study
-A mixed study of algorithm and numerical systems.
+# Study of Numeric Systems
+A mixed study of algorithm and numerical systems (binary, octal and hexadecimal).
