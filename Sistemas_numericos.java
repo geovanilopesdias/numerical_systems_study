@@ -1,5 +1,5 @@
 package com.gheowinapps.sistemas_numericos;
-import static com.gheowinapps.sistemas_numericos.ConversionModule.openConversionFromNonDecimalToDecimalScreen;
+import static com.gheowinapps.sistemas_numericos.SystemView.openSystemMenu;
 /**
  * Realizado como estudo dos sistemas de base binária, octal e hexadecimal.
  * Compreende operações de conversões entre estes sistemas e operações aritméticas
@@ -9,6 +9,6 @@ import static com.gheowinapps.sistemas_numericos.ConversionModule.openConversion
 public class Sistemas_numericos {
 
     public static void main(String[] args) {
-        openConversionFromNonDecimalToDecimalScreen();
+        openSystemMenu();
     }
 }
